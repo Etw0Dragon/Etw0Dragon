@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Dragon
+# 👋 Salut, je suis Tom
 
 Développeur passionné de systèmes, NAS et solutions cloud personnelles.  
 Je crée des outils low-cost, efficaces et automatisés pour le stockage, la gestion de données et la domotique logicielle.  
@@ -13,10 +13,10 @@ Je crée des outils low-cost, efficaces et automatisés pour le stockage, la ges
 
 ---
 
-## ⚡ Compétences techniques
+## Stack techniques
 
 - **Langages** : Go, Python, JavaScript/React  
-- **Systèmes** : Linux (Debian, Arch), FreeBSD et Windows  
+- **Systèmes** : Linux (Debian, Arch), FreeBSD (a mes heures perdues) et Windows  
 - **DevOps / Automatisation** : scripts Bash, gestion de conteneurs, ISO custom  
 - **Autres** : Tailscale, microcontrôleurs, analyse de projets hardware/software  
 
